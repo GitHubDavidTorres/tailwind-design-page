@@ -1,1 +1,1 @@
-tailwindcsspage.netlify.app
+https://tailwindcsspage.netlify.app/
